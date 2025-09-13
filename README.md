@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/shabbirhasan1-ultrafast-mcp-badge.png)](https://mseep.ai/app/shabbirhasan1-ultrafast-mcp)
+
 # UltraFast MCP 🚀
 
 **High-performance, ergonomic Model Context Protocol (MCP) implementation in Rust**
